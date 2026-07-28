@@ -25,4 +25,4 @@
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=caador122&layout=compact&theme=dracula)
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/caador122/caador122/blob/output/github-contribution-grid-snake.svg)
