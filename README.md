@@ -5,7 +5,7 @@
 
 - :world_map:: Atualmente eu estou morando no Brasil.
 - 🔭 Atualmente estou começando o ensino superior de Desenvolvimento de Software.
-- 🌱 Atualmente estou aprendendo um pouco mais sobre as linguagens de programação.
+- 🌱 Estou aprendendo um pouco mais sobre as linguagens de programação.
 - 😄 Pronomes: Ele/Dele
 - ⚡ Curiosidade: Sou fanático em jogos de RPG/Mundo aberto/Aventura, Sou pai de uma menina
 
