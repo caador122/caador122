@@ -24,12 +24,11 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=caador122&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=caador122&show_icons=true&theme=dracula)
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caador122&layout=compact&langs_count=7&theme=dracula" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caador122&layout=compact&langs_count=7&theme=dracula)
 
 </div>
-
 ## 🐍 Snake
 
 ![Snake animation](https://raw.githubusercontent.com/caador122/caador122/output/github-contribution-grid-snake.svg)
